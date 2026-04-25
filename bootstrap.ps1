@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     AI Signuper — Windows 一键准备脚本
 
