@@ -1,0 +1,16 @@
+# Python / uv
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# 运行产物（捕获到的凭证、失败兜底文件）
+output/sso*.txt
+
+# 本地配置（含 Sub2API admin key）
+.env
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
